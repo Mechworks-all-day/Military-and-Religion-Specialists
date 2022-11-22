@@ -9,7 +9,7 @@
 		"name":"Officer",
 		"science": 1,
                 "production": 1,
-		"greatPersonPoints": {"Great Prophet":3},
+		"greatPersonPoints": {"Great General":3},
 		"color": [225,25,25]
 	}
 ]
