@@ -114,7 +114,7 @@
 		"requiredTech": "Chivalry",
                 "specialistSlots": {"Officer": 2}
 	},
-	{
+	
 	{
 		"name": "Armory",
 		"hurryCostModifier": 25,
